@@ -103,6 +103,6 @@ Strong: Password is strong but could be improved.
 ### Example 4: Very Strong Password
 
 ```plaintext
-Enter a password to check its strength: StrongP@ssw0rd
+Enter a password to check its strength: PizzaAwesome#1
 Very Strong: Password meets all criteria.
 ```
