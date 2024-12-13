@@ -1,6 +1,6 @@
 # Password Strength Checker - Documentation
 
-This Python script checks the strength of a given password based on several criteria, including length, the presence of digits, uppercase letters, special characters, and spaces. The test tables for this program can be [found here](https://docs.google.com/document/d/1L6EaZfExczh8xxAwX5ePwn-XTmAXs95mGBeiO3YIrDU/edit?usp=sharing)
+This Python script checks the strength of a given password based on several criteria, including length, the presence of digits, uppercase letters, special characters, and spaces. The test tables for this program can be [found here](https://docs.google.com/document/d/1L6EaZfExczh8xxAwX5ePwn-XTmAXs95mGBeiO3YIrDU/edit?usp=sharing). The pseudocode is [here](https://docs.google.com/document/d/1oyJYdZQbHJkTgZFkiZqfUnO938k11fMUowfXxSU5Cuc/edit?usp=sharing).
 
 ## Table of Contents
 
